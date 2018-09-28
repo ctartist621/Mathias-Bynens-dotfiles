@@ -93,5 +93,10 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+brew install nvm
+brew install serverless
+brew install docker
+brew install docker-compose
+
 # Remove outdated versions from the cellar.
 brew cleanup
